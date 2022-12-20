@@ -38,11 +38,11 @@
 // }
 
 fn main() {
-    let names = ["john", "doe", "jack", "jill"];
+    // let names = ["john", "doe", "jack", "jill"];
 
-    let a = [5, 1, 100];
-    a[0];
-    a[1];
+    // let a = [5, 1, 100];
+    // a[0];
+    // a[1];
 
-    let b = [3; 5]; // [3,3,3,3,3] [value; numberOfElements];
+    // let b = [3; 5]; // [3,3,3,3,3] [value; numberOfElements];
 }
