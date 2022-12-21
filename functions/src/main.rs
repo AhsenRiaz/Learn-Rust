@@ -1,5 +1,4 @@
 fn main() {
-    let y = -5;
     another_function(10, 20);
     let y = expression_example();
     println!("the returned value is : {}", y);
