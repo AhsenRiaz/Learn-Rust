@@ -2,6 +2,7 @@ fn main() {
     println!("Hello, world!");
     create_strings();
     update_string();
+    concatenation();
     format_macro();
 }
 
@@ -29,6 +30,8 @@ fn concatenation() {
     let s1 = String::from("hello");
     let s2 = String::from("world");
     let s3 = s1 + &s2;
+
+    println!("{}", s3);
 }
 
 fn format_macro() {
